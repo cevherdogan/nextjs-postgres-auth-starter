@@ -2,7 +2,7 @@
 
 echo "🚀 Setting up your Vercel Auth Starter environment..."
 
-cd "$(dirname "$0")/submodules/vercel-auth-starter" || exit 1
+# cd "$(dirname "$0")/submodules/vercel-auth-starter" || exit 1
 
 # Check for .env file
 if [ ! -f ".env" ]; then
